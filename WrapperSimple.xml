@@ -3,7 +3,7 @@
         <Wrapper>
             <AdSystem version="1.0">Wrapper1</AdSystem>
             <VASTAdTagURI>
-                <![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%201-2.0%20Samples/Inline_LinearRegular_VAST2.0.xml]]>
+                <![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/Inline_LinearRegular_VAST2.0.xml]]>
             </VASTAdTagURI>
             <Error>
                 <![CDATA[http://www.wrapper1.com/error]]>

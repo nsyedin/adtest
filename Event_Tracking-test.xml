@@ -18,7 +18,9 @@
                             <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
                             <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
                             <Tracking event="complete">http://example.com/tracking/complete</Tracking>
+                            <Tracking event="progress" offset="00:00:05">http://example.com/tracking/progress-5</Tracking>
                             <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
+                            <Tracking event="progress" offset="00:00:15">http://example.com/tracking/progress-15</Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickThrough id="blog">

@@ -41,6 +41,23 @@
         		</NonLinear>
 		    </NonLinearAds>
                 </Creative>
+			<Creative>
+				<Linear>
+					<Duration>00:00:15</Duration>
+					<TrackingEvents></TrackingEvents>
+					<VideoClicks>
+					<ClickThrough id="scanscout">
+					<![CDATA[ http://www.target.com ]]>
+					</ClickThrough>
+					</VideoClicks>
+					<MediaFiles>
+						<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
+							<![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
+						</MediaFile>
+					</MediaFiles>
+				</Linear>
+			</Creative>
+
             </Creatives>
             <Extensions>
                 <Extension type="iab-Count">

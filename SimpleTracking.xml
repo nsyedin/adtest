@@ -33,7 +33,7 @@
                         </TrackingEvents>
                         <MediaFiles>
                             <MediaFile height="300" width="400" bitrate="500" type="video/mp4" delivery="progressive">
-                                <![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/video/avc1.mp4]]>
+                                <![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/video/small.mp4]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>

@@ -40,7 +40,7 @@
 	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=D42uTygfbofAHqIPxAkWpBCVK1YvPhwxYXxVSKV8rs2V4GaORjElePq57kYUCFGskmoCZbOm7wuz9u4pWlME&sid=221156&sliceid=2371889&bn=1&pz=0&sz=&ad=687341&bid=6267397&bt=61&custom=]]></ClickThrough>
                     </VideoClicks>
 			<MediaFiles>
-			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4"><![CDATA[https://servers2.adriver.ru/images/0006267/0006267397/0/example.mp4]]></MediaFile>
+			<MediaFile delivery="progressive" width="300" height="400" bitrate="500" type="video/mp4"><![CDATA[https://servers2.adriver.ru/images/0006267/0006267397/0/example.mp4]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   
@@ -89,7 +89,7 @@
 	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=DDLxVfpPwBP0T5hPkJA750-vhyfaJl1r5m6j91jwUI3Ee2mM6tNzn4iXV5u14ImVBqTAc1LRp-fY5CUA1_EI&sid=221156&sliceid=2371889&bn=2&pz=0&sz=&ad=687341&bid=6360544&bt=61&custom=]]></ClickThrough>
                     </VideoClicks>
 			<MediaFiles>
-			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4"><![CDATA[https://mh6.adriver.ru/mf/0006360/0006360544/0/Raccoon30232.mp4]]></MediaFile>
+			<MediaFile delivery="progressive" width="300" height="400" bitrate="500" type="video/mp4"><![CDATA[https://mh6.adriver.ru/mf/0006360/0006360544/0/Raccoon30232.mp4]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   

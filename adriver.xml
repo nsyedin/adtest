@@ -2,7 +2,7 @@
 
 <VAST version="3.0">
 
-<Ad id="687341">
+<Ad id="687341" sequence="1">
 <InLine>
   <AdSystem>AdRiver</AdSystem>
   <AdTitle>687341></AdTitle>
@@ -51,7 +51,7 @@
 
 </Ad>
 
-<Ad id="687341">
+<Ad id="687341" sequence="2">
 <InLine>
   <AdSystem>AdRiver</AdSystem>
   <AdTitle>687341></AdTitle>

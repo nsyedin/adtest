@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VAST version="3.0">
+
+<Ad id="696472" sequence="1">
+<InLine>
+  <AdSystem>AdRiver</AdSystem>
+  <AdTitle>696472></AdTitle>
+<Error><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE]]]></Error>
+   <Impression ><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=0&custom=207=]]></Impression>
+   <Impression ><![CDATA[]]></Impression>
+	<Creatives>
+		<Creative id="6538593">
+		
+		
+<Linear skipoffset="00&#x3A;00&#x3A;05">
+		<Duration>00:00:30.000</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=1]]></Tracking>
+<Tracking event="start"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=2]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=3]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=4]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=5]]></Tracking>
+<Tracking event="complete"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=6]]></Tracking>
+<Tracking event="mute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=7]]></Tracking>
+<Tracking event="unmute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=8]]></Tracking>
+<Tracking event="pause"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=9]]></Tracking>
+<Tracking event="rewind"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=10]]></Tracking>
+<Tracking event="resume"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=11]]></Tracking>
+<Tracking event="expand"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=12]]></Tracking>
+<Tracking event="collapse"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=13]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=14]]></Tracking>
+<Tracking event="close"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=15]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=16]]></Tracking>
+<Tracking event="exitFullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=17]]></Tracking>
+<Tracking event="skip"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&tuid=-1&type=18]]></Tracking>
+			
+			</TrackingEvents>
+	            <VideoClicks>
+	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&custom=5=phone;]]></ClickThrough>
+                    </VideoClicks>
+			<MediaFiles>
+			<MediaFile delivery="streaming" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8]]></MediaFile>
+			</MediaFiles>
+		   </Linear>
+		   
+		   
+             </Creative>
+      </Creatives>
+</InLine>
+
+</Ad>
+
+
+
+
+
+
+
+</VAST>

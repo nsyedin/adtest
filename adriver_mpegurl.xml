@@ -40,7 +40,7 @@
 	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=D1xTA3OIHzZbNAJtFnb8Y0PONw92xn3cJK9GCz4EsbKBbigrKRDKV3i5Yl4NddrPuElfKmy71JEtnZHdcwgQ9fuPzVwYdfg&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6538593&bt=61&custom=5=phone;]]></ClickThrough>
                     </VideoClicks>
 			<MediaFiles>
-			<MediaFile delivery="streaming" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8]]></MediaFile>
+			<MediaFile delivery="streaming" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8]]></MediaFile>
 			</MediaFiles>
 		   </Linear>
 		   

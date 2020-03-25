@@ -2,7 +2,7 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
   <vmap:AdBreak timeOffset="start" breakId="BREAKiD1">
     <vmap:AdSource id="BREAKiD1" allowMultipleAds="true" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=179936&bt=61&pz=0&vz=1&mc=50&target=top&tuid=1&custom=22=%d0%ba%d0%b8%d1%80%d0%b8%d0%bb%d0%bb%d0%b8%d1%86%d0%b0&rnd=335876819]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/adriver.xml]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="start" breakId="123">

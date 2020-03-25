@@ -5,20 +5,24 @@
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/adriver.xml]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
+<!--
   <vmap:AdBreak timeOffset="start" breakId="123">
     <vmap:AdSource id="123" allowMultipleAds="false" followRedirects="true">
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/erle.cgi?sid=179936&sz=111&bt=61&pz=0&vz=1&target=top&tuid=1&custom=33=middle3&rnd=411058562]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
+-->
   <vmap:AdBreak timeOffset="50%" breakId="345">
     <vmap:AdSource id="345" allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast2"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=179936&bt=61&pz=0&vz=1&mc=5&target=top&tuid=1&custom=55=last&rnd=70842024]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
+<!--
   <vmap:AdBreak timeOffset="start" breakId="555">
     <vmap:AdSource id="555" allowMultipleAds="false" followRedirects="true">
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/erle.cgi?sid=179936&bt=61&pz=0&vz=1&target=top&tuid=1&rnd=1728536417]]></vmap:AdTagURI>
     </vmap:AdSource>
+-->
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:00:30.000" breakId="777">
     <vmap:AdSource id="777" allowMultipleAds="true" followRedirects="true">

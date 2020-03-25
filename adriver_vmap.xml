@@ -5,7 +5,7 @@
       <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/adriver.xml]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
-  <vmap:AdBreak timeOffset="00:00:15.000" breakId="345">
+  <vmap:AdBreak timeOffset="25%" breakId="345">
     <vmap:AdSource id="345" allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast2"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=179936&bt=61&pz=0&vz=1&mc=5&target=top&tuid=1&custom=55=last&rnd=70842024]]></vmap:AdTagURI>
     </vmap:AdSource>

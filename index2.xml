@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="start" breakType="linear">
+    <vmap:AdSource allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&custom=1=ANDroid&rnd=1241765772]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:00:30.000" breakType="linear">
     <vmap:AdSource allowMultipleAds="true" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=1482639353]]></vmap:AdTagURI>
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=2&target=top&tuid=1&rnd=1796902116]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="end" breakType="linear">
+    <vmap:AdSource allowMultipleAds="false" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/erle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&target=top&tuid=1&rnd=1492936224]]></vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
 </vmap:VMAP>

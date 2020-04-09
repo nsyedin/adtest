@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
-  <vmap:AdBreak timeOffset="start" breakType="linear">
-    <vmap:AdSource allowMultipleAds="true" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&custom=1=ANDroid&rnd=529206504]]></vmap:AdTagURI>
-    </vmap:AdSource>
-  </vmap:AdBreak>
-</vmap:VMAP>

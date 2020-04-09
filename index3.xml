@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="start" breakId="preroll" breakType="linear">
+    <vmap:AdSource id="preroll" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=148011218]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="00:30:00.000" breakId="midroll" breakType="linear">
+    <vmap:AdSource id="midroll" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=855457339]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="end" breakId="postroll" breakType="linear">
+    <vmap:AdSource id="postroll" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=1922525890]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+</vmap:VMAP>

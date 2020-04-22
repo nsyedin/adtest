@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="start" breakId="preroll" breakType="linear">
+    <vmap:AdSource id="preroll" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=4&target=top&tuid=1&rnd=456088053]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="00:30:00.000" breakId="midroll-1" breakType="linear">
+    <vmap:AdSource id="midroll-1" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=995542261]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="01:20:00.000" breakId="midroll-2" breakType="linear">
+    <vmap:AdSource id="midroll-2" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=1385352914]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="01:50:00.000" breakId="midroll-3" breakType="linear">
+    <vmap:AdSource id="midroll-3" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=259376317]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="end" breakId="postroll" breakType="linear">
+    <vmap:AdSource id="postroll" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3"><![CDATA[https://ad.adriver.ru/cgi-bin/xmerle.cgi?sid=221270&sz=web&bt=61&pz=0&w=1920&h=1080&mc=3&target=top&tuid=1&rnd=1997199322]]></vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+</vmap:VMAP>

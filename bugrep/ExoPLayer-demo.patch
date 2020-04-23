@@ -1,0 +1,42 @@
+From 770c3731e966546c25ad253b8955e875a4a86add Mon Sep 17 00:00:00 2001
+From: Nikolay Syedin <nikolay.syedin@gs-labs.ru>
+Date: Thu, 23 Apr 2020 10:44:29 +0300
+Subject: [PATCH] extension-ima bugreport
+
+---
+ demos/main/src/main/assets/media.exolist.json                | 5 +++++
+ .../com/google/android/exoplayer2/ext/ima/ImaAdsLoader.java  | 2 +-
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+diff --git a/demos/main/src/main/assets/media.exolist.json b/demos/main/src/main/assets/media.exolist.json
+index 4375bdf3a..832467faf 100644
+--- a/demos/main/src/main/assets/media.exolist.json
++++ b/demos/main/src/main/assets/media.exolist.json
+@@ -484,6 +484,11 @@
+   {
+     "name": "IMA sample ad tags",
+     "samples": [
++      {
++        "name": "Bug test VAST with 3 ads",
++        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv",
++        "ad_tag_uri": "https://raw.githubusercontent.com/nsyedin/adtest/master/bug.xml"
++      },
+       {
+         "name": "Single inline linear",
+         "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv",
+diff --git a/extensions/ima/src/main/java/com/google/android/exoplayer2/ext/ima/ImaAdsLoader.java b/extensions/ima/src/main/java/com/google/android/exoplayer2/ext/ima/ImaAdsLoader.java
+index 98dbef7c6..d2fb8e581 100644
+--- a/extensions/ima/src/main/java/com/google/android/exoplayer2/ext/ima/ImaAdsLoader.java
++++ b/extensions/ima/src/main/java/com/google/android/exoplayer2/ext/ima/ImaAdsLoader.java
+@@ -269,7 +269,7 @@ public final class ImaAdsLoader
+     }
+   }
+ 
+-  private static final boolean DEBUG = false;
++  private static final boolean DEBUG = true;
+   private static final String TAG = "ImaAdsLoader";
+ 
+   /**
+-- 
+2.22.0
+

@@ -2,17 +2,17 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
  <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
   <vmap:AdSource id="preroll" allowMultipleAds="false" followRedirects="true">
-   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast.xml]]></vmap:AdTagURI>
+   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast1.xml]]></vmap:AdTagURI>
   </vmap:AdSource>
  </vmap:AdBreak>
  <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll">
   <vmap:AdSource id="midroll" allowMultipleAds="false" followRedirects="true">
-   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast.xml]]></vmap:AdTagURI>
+   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast2.xml]]></vmap:AdTagURI>
   </vmap:AdSource>
  </vmap:AdBreak>
  <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
   <vmap:AdSource id="postroll" allowMultipleAds="false" followRedirects="true">
-   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast.xml]]></vmap:AdTagURI>
+   <vmap:AdTagURI templateType="vast3"><![CDATA[https://raw.githubusercontent.com/nsyedin/adtest/master/3vast3.xml]]></vmap:AdTagURI>
   </vmap:AdSource>
  </vmap:AdBreak>
 </vmap:VMAP>

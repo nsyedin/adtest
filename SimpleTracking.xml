@@ -15,7 +15,7 @@
             </Impression>
             <Creatives>
                 <Creative>
-                    <Linear skipoffset="00:00:02">
+                    <Linear skipoffset="00:00:00">
                         <Duration>00:00:05</Duration>
                         <TrackingEvents>
                             <Tracking event="firstQuartile">

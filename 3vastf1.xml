@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VAST version="3.0">
+
+<Ad id="696472" sequence="1">
+<InLine>
+  <AdSystem>AdRiver</AdSystem>
+  <AdTitle>696472></AdTitle>
+<Error><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE]]]></Error>
+   <Impression ><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=0&custom=207=]]></Impression>
+   <Impression ><![CDATA[]]></Impression>
+	<Creatives>
+		<Creative id="6565908">
+		
+		
+<Linear skipoffset="00&#x3A;00&#x3A;00">
+		<Duration>00:00:20.000</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=1]]></Tracking>
+<Tracking event="start"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=2]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=3]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=4]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=5]]></Tracking>
+<Tracking event="complete"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=6]]></Tracking>
+<Tracking event="mute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=7]]></Tracking>
+<Tracking event="unmute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=8]]></Tracking>
+<Tracking event="pause"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=9]]></Tracking>
+<Tracking event="rewind"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=10]]></Tracking>
+<Tracking event="resume"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=11]]></Tracking>
+<Tracking event="expand"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=12]]></Tracking>
+<Tracking event="collapse"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=13]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=14]]></Tracking>
+<Tracking event="close"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=15]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=16]]></Tracking>
+<Tracking event="exitFullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=17]]></Tracking>
+<Tracking event="skip"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&tuid=-1&type=18]]></Tracking>
+<Tracking event="progress" offset="00:00:10"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&type=19&custom=![std]]]></Tracking>			
+			</TrackingEvents>
+	            <VideoClicks>
+	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=DzgcOzTyZvyzqi43UQQy_PBq2nzVxveHE18gfjgs47Pv6_liR3DmVE0m-PHM-YtOkNGFCsxfU527a8QKF4GiuWXRM&sid=221270&sliceid=2472052&bn=1&pz=0&sz=web&ad=696472&bid=6565908&bt=61&custom=]]></ClickThrough>
+                    </VideoClicks>
+			<MediaFiles>
+			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://masterh5.adriver.ru/images/0006565/0006565908/0/AutoPlusAkcia.mp4]]></MediaFile>
+			</MediaFiles>
+		   </Linear>
+		   
+		   
+             </Creative>
+      </Creatives>
+</InLine>
+
+</Ad>
+
+<Ad id="696472" sequence="2">
+<InLine>
+  <AdSystem>AdRiver</AdSystem>
+  <AdTitle>696472></AdTitle>
+<Error><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE]]]></Error>
+   <Impression ><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=0&custom=207=]]></Impression>
+   <Impression ><![CDATA[]]></Impression>
+	<Creatives>
+		<Creative id="6589281">
+		
+		
+<Linear skipoffset="00&#x3A;00&#x3A;02">
+		<Duration>00:00:19.000</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=1]]></Tracking>
+<Tracking event="start"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=2]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=3]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=4]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=5]]></Tracking>
+<Tracking event="complete"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=6]]></Tracking>
+<Tracking event="mute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=7]]></Tracking>
+<Tracking event="unmute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=8]]></Tracking>
+<Tracking event="pause"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=9]]></Tracking>
+<Tracking event="rewind"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=10]]></Tracking>
+<Tracking event="resume"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=11]]></Tracking>
+<Tracking event="expand"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=12]]></Tracking>
+<Tracking event="collapse"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=13]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=14]]></Tracking>
+<Tracking event="close"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=15]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=16]]></Tracking>
+<Tracking event="exitFullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=17]]></Tracking>
+<Tracking event="skip"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&tuid=-1&type=18]]></Tracking>
+			
+			</TrackingEvents>
+	            <VideoClicks>
+	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=DfJt1YIJRom4tUaYEaoDvy0raYb-sp0uJaz1XcnJJG8e89zw2HSMc-uE54V2_P93yCJG2FNlcrd9dAlmo5y9OuRck&sid=221270&sliceid=2472051&bn=2&pz=0&sz=web&ad=696472&bid=6589281&bt=61&custom=]]></ClickThrough>
+                    </VideoClicks>
+			<MediaFiles>
+			<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://sib2.adriver.ru/mf/0006589/0006589281/0/Audi.mp4]]></MediaFile>
+			</MediaFiles>
+		   </Linear>
+		   
+		   
+             </Creative>
+      </Creatives>
+</InLine>
+
+</Ad>
+
+<Ad id="696472" sequence="3">
+<InLine>
+  <AdSystem>AdRiver</AdSystem>
+  <AdTitle>696472></AdTitle>
+<Error><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=25&custom=172=[ERRORCODE]]]></Error>
+   <Impression ><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=0&custom=207=]]></Impression>
+   <Impression ><![CDATA[]]></Impression>
+	<Creatives>
+		<Creative id="6566724">
+		
+		
+<Linear skipoffset="00&#x3A;00&#x3A;2">
+		<Duration>00:00:41.000</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=1]]></Tracking>
+<Tracking event="start"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=2]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=3]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=4]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=5]]></Tracking>
+<Tracking event="complete"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=6]]></Tracking>
+<Tracking event="mute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=7]]></Tracking>
+<Tracking event="unmute"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=8]]></Tracking>
+<Tracking event="pause"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=9]]></Tracking>
+<Tracking event="rewind"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=10]]></Tracking>
+<Tracking event="resume"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=11]]></Tracking>
+<Tracking event="expand"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=12]]></Tracking>
+<Tracking event="collapse"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=13]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=14]]></Tracking>
+<Tracking event="close"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=15]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=16]]></Tracking>
+<Tracking event="exitFullscreen"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=17]]></Tracking>
+<Tracking event="skip"><![CDATA[https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&tuid=-1&type=18]]></Tracking>
+			
+			</TrackingEvents>
+	            <VideoClicks>
+	              <ClickThrough><![CDATA[https://ad.adriver.ru/cgi-bin/click.cgi?xpid=DOia5v7fuImIiTHZ-F2qo6jpRqGqQTp_kP_R3sD9HW-mbu7w2tV-TOdi6Kl84nifjR7R1Be6tsIneyII3P-DdqaGl&sid=221270&sliceid=2481345&bn=3&pz=0&sz=web&ad=696472&bid=6566724&bt=61&custom=]]></ClickThrough>
+                    </VideoClicks>
+			<MediaFiles>
+			<MediaFile delivery="progressive" bitrate="2200" width="0" height="0" type="video/mp4" apiFramework=""><![CDATA[https://sib2.adriver.ru/mf/0006566/0006566724/0/S7.mp4]]></MediaFile>
+			</MediaFiles>
+		   </Linear>
+		   
+		   
+             </Creative>
+      </Creatives>
+</InLine>
+
+</Ad>
+
+
+
+</VAST>
